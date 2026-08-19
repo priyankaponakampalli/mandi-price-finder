@@ -24,6 +24,9 @@ Vegetable and fruit prices swing around a lot depending on the day, the season, 
 - Falls back gracefully to the closest available market record if your exact pick has no data that day, and tells you it did that
 - Covers fruits, vegetables, pulses, and spices
 - Shows district, variety, grade, and the date the price was reported
+- <img width="1456" height="820" alt="image" src="https://github.com/user-attachments/assets/8a1f9d8b-ebbe-457e-a4d3-fc112cd385d1" />
+-<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/7a8084bf-0c65-4948-a69e-debb43bcb293" />
+
 
 ---
 
